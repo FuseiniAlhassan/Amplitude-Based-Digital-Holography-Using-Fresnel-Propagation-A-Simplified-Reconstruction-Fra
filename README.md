@@ -20,10 +20,7 @@ This project simulates the formation and reconstruction of digital holograms usi
 - Reconstruct object amplitude via backward Fresnel propagation.
 - Visualize original object, hologram, and reconstruction side-by-side.
 - Save final figure automatically for documentation or presentation.
-##  📊 Output
-• 	Original object amplitude (grayscale image)
-• 	Simulated hologram intensity
-• 	Reconstructed amplitude via inverse Fresnel propagation
+
 ## 🎯 Educational & Research Value
 ## Ideal for:
 • 	Teaching the fundamentals of digital holography and scalar diffraction.
