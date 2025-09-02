@@ -1,5 +1,3 @@
-# Blurry-hologram-reconstruction
-
 ##  Introduction
 Digital holography offers a computational pathway for capturing and reconstructing optical wavefronts using intensity-only measurements. By encoding both amplitude and phase information through interference with a reference wave, holography enables full-field recovery of object structures, making it a powerful tool in imaging, metrology, and optical encryption. While many implementations rely on complex object fields and phase sensitive detection, simplified models using amplitude-only inputs remain valuable for educational, prototyping, and low-cost applications.
 This project presents a streamlined simulation of digital holography using Fresnel diffraction theory and a grayscale image treated as an amplitude-only object field. The object wave is propagated to a virtual sensor plane using a Fourier-based Fresnel transfer function, where it interferes with a unit-amplitude reference wave to produce a synthetic hologram. The resulting intensity pattern encodes spatial information about the object and is normalized for display and reconstruction.
